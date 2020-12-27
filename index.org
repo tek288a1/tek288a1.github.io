@@ -1,0 +1,4 @@
+#+TITLE: Welcome
+Welcome to Tae's website. Visit
+ - [[https://github.com/tek288a1][My GitHub page]]
+ - [[https://math.osu.edu/people/kim.3562][OSU Math]]
